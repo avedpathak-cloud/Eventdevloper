@@ -1,0 +1,6 @@
+{
+  "name": "AuraEvents & CaterOps — Modular Event & Catering Platform",
+  "description": "Independent yet connected Event Management and Catering Management platform with a Common Booking Core, automated recipe/raw-material scaling, resource calculators, vendor communication center, and competitor migration compatibility.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

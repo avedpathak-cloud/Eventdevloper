@@ -1,0 +1,5 @@
+# Python Backend Dependencies for Production MySQL Deployment
+# Note: The backend runs natively on Python 3.11+ stdlib in sandbox mode
+# and automatically uses mysql-connector-python when MYSQL_HOST is configured.
+mysql-connector-python>=8.4.0
+python-dotenv>=1.0.1
